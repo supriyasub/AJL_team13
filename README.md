@@ -45,12 +45,9 @@ Below are some key visualizations from our EDA:
 
 #### 1. Class Distribution of Skin Conditions
 (Insert a bar plot showing the frequency of each skin condition in the dataset)
+![image](https://github.com/user-attachments/assets/59f7a83b-52ec-4371-a314-a249a694568d)
+![image](https://github.com/user-attachments/assets/0fe66897-4eb9-44fe-8f4e-f8723dafcb99)
 
-#### 2. Skin Tone Representation
-(Insert a pie chart or histogram illustrating the distribution of skin tones in the dataset)
-
-#### 3. Sample Image Grid
-(Insert a grid of example images showcasing different conditions across diverse skin tones)
 
 ---
 
