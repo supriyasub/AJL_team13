@@ -57,7 +57,4 @@ Below are some key visualizations from our EDA:
 - Conduct hyperparameter tuning and interpretability analysis
 - Finalize the report and GitHub documentation
 
----
-
-Stay tuned for updates as we progress in developing a **fair and inclusive AI model** for dermatology!
 
