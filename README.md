@@ -48,13 +48,37 @@ Below are some key visualizations from our EDA:
 ![image](https://github.com/user-attachments/assets/59f7a83b-52ec-4371-a314-a249a694568d)
 ![image](https://github.com/user-attachments/assets/0fe66897-4eb9-44fe-8f4e-f8723dafcb99)
 
+## Results & Key Findings
 
----
+Dataset Challenges: Several inconsistencies and missing labels in the dataset affected model training stability.
 
-## Next Steps
-- Implement initial baseline models (CNN, EfficientNet, etc.)
+Fairness Issues: Preliminary analysis indicated performance discrepancies across skin tones, reinforcing the need for bias mitigation strategies.
+
+Technical Barriers: Errors encountered during training prevented final model evaluation and submission, highlighting the need for improved debugging workflows.
 - Evaluate model fairness using performance metrics across different skin tones
 - Conduct hyperparameter tuning and interpretability analysis
 - Finalize the report and GitHub documentation
+
+## Impact Narrative
+
+Even though we faced challenges in generating final model results, our work highlights key issues in dermatology AI fairness. By uncovering disparities in dataset representation and model performance, our findings emphasize the ongoing need for:
+
+- More diverse and representative dermatology datasets
+
+- Enhanced bias-mitigation techniques in AI modeling
+
+- Improved debugging and reproducibility pipelines in AI research
+
+## Next Steps & Future Improvements
+
+Given the encountered challenges, our future work will focus on:
+
+Debugging model errors to ensure smooth training and evaluation
+
+Exploring alternative architectures that might be more robust to dataset inconsistencies
+
+Re-evaluating dataset quality and exploring external data sources for better representation
+
+
 
 
